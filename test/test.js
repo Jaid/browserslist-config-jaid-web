@@ -12,5 +12,8 @@ const {default: browserslistConfig} = indexModule
 it("Should return a proper version list for given browserslist query", () => {
   const result = browserslist(browserslistConfig)
   expect(Array.isArray(result)).toBeTruthy()
-  expect(result.filter(version => version.startsWith("node")).length > 5).toBeTruthy()
+  expect(result.find(version => version.startsWith("chrome"))).toBeTruthy()
+  expect(result.find(version => version.startsWith("and_chr"))).toBeTruthy()
+  expect(result.find(version => version.startsWith("firefox"))).toBeTruthy()
+  expect(result.find(version => version.startsWith("edge"))).toBeTruthy()
 })

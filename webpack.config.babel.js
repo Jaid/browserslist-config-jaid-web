@@ -1,6 +1,12 @@
 import configure from "webpack-config-jaid"
 
 export default configure({
-  documentation: true,
   publishimo: {fetchGithub: true},
+  terserOptions: false,
+  output: {
+    libraryTarget: "commonjs",
+    libraryExport: "commonjs",
+    umdNamedDefine: false,
+    library: null,
+  },
 })

@@ -4,7 +4,7 @@
  * Exports a Browserslist query
  * @type {string[]}
  */
-export default [
+module.exports = [
   "last 2 chrome versions",
   "last 2 firefox versions",
   "last 2 edge versions",

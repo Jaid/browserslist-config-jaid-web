@@ -2,12 +2,10 @@ import path from "path"
 
 import browserslist from "browserslist"
 
-const indexModule = (process.env.MAIN ? path.resolve(process.env.MAIN) : path.join(__dirname, "..", "src")) |> require
-
 /**
-   * @type { import("../src") }
-   */
-const {default: browserslistConfig} = indexModule
+ * @type { import("../src") }
+ */
+const browserslistConfig = (process.env.MAIN ? path.resolve(process.env.MAIN) : path.join(__dirname, "..", "src")) |> require
 
 it("Should return a proper version list for given browserslist query", () => {
   const result = browserslist(browserslistConfig)

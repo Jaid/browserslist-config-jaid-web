@@ -4,16 +4,16 @@
   "version": "2.1.1",
   "author": "Jaid <jaid.jsx@gmail.com> (https://github.com/Jaid)",
   "devDependencies": {
-    "acorn": "^6.2.0",
+    "acorn": "^6.2.1",
     "babel-jest": "^24.8.0",
-    "babel-preset-jaid": "^6.8.1",
-    "browserslist": "^4.6.3",
-    "eslint": "^6.0.1",
-    "eslint-config-jaid": "^1.18.0",
+    "babel-preset-jaid": "^6.8.2",
+    "browserslist": "^4.6.6",
+    "eslint": "^6.1.0",
+    "eslint-config-jaid": "^1.28.0",
     "jest": "^24.8.0",
     "rimraf": "^2.6.3",
-    "webpack": "^4.35.2",
-    "webpack-config-jaid": "^5.21.1"
+    "webpack": "^4.39.1",
+    "webpack-config-jaid": "^5.26.0"
   },
   "scripts": {
     "clean": "rimraf dist/",

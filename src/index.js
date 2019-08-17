@@ -5,10 +5,13 @@
  * @type {string[]}
  */
 module.exports = [
-  "last 2 chrome versions",
-  "last 2 firefox versions",
-  "last 2 edge versions",
-  "last 2 and_chr versions",
-  "not ie >= 0",
+  "last 2 Chrome versions",
+  "last 2 ChromeAndroid versions",
+  "last 2 Firefox versions",
+  "last 2 FirefoxAndroid versions",
+  "last 2 Electron versions",
+  "not Edge >= 0",
+  "not Explorer >= 0",
+  "not iOS >= 0",
   "not dead",
 ]

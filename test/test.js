@@ -13,5 +13,5 @@ it("Should return a proper version list for given browserslist query", () => {
   expect(result.find(version => version.startsWith("chrome"))).toBeTruthy()
   expect(result.find(version => version.startsWith("and_chr"))).toBeTruthy()
   expect(result.find(version => version.startsWith("firefox"))).toBeTruthy()
-  expect(result.find(version => version.startsWith("electron"))).toBeTruthy()
+  expect(result.find(version => version.startsWith("and_ff"))).toBeTruthy()
 })

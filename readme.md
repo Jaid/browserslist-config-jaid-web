@@ -3,6 +3,15 @@
 
 My Browserslist query targeting modern web browsers.
 
+## Installation
+<a href='https://npmjs.com/package/browserslist-config-jaid-web'><img alt='npm logo' src='https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png' height=16/></a>
+```bash
+npm install --save browserslist-config-jaid-web@^
+```
+<a href='https://yarnpkg.com/package/browserslist-config-jaid-web'><img alt='Yarn logo' src='https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-full.png' height=24/></a>
+```bash
+yarn add browserslist-config-jaid-web@^
+```
 
 
 ## Try it out

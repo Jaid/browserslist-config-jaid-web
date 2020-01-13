@@ -28,5 +28,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "browserslist-config-jaid-web",
-  "description": "My Browserslist query targeting modern web browsers."
+  "description": "My Browserslist query targeting modern web browsers.",
+  "funding": "https://github.com/sponsors/jaid"
 }

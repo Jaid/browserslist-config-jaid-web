@@ -1,9 +1,9 @@
 # browserslist-config-jaid-web
 
 
-<a href="https://raw.githubusercontent.com/Jaid/browserslist-config-jaid-web/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/browserslist-config-jaid-web?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/browserslist-config-jaid-web/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fbrowserslist-config-jaid-web%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-web/commits"><img src="https://img.shields.io/github/commits-since/Jaid/browserslist-config-jaid-web/v2.3.0?style=flat-square&logo=github" alt="Commits since v2.3.0"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-web/commits"><img src="https://img.shields.io/github/last-commit/Jaid/browserslist-config-jaid-web?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-web/issues"><img src="https://img.shields.io/github/issues/Jaid/browserslist-config-jaid-web?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/browserslist-config-jaid-web"><img src="https://img.shields.io/npm/v/browserslist-config-jaid-web?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/browserslist-config-jaid-web/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/browserslist-config-jaid-web?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/browserslist-config-jaid-web"><img src="https://img.shields.io/npm/dm/browserslist-config-jaid-web?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/browserslist-config-jaid-web/master/license.txt"><img src="https://img.shields.io/github/license/jaid/browserslist-config-jaid-web?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor browserslist-config-jaid-web"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/browserslist-config-jaid-web/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fbrowserslist-config-jaid-web%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/browserslist-config-jaid-web/commits"><img src="https://img.shields.io/github/commits-since/jaid/browserslist-config-jaid-web/v2.3.0?style=flat-square&logo=github" alt="Commits since v2.3.0"/></a> <a href="https://github.com/jaid/browserslist-config-jaid-web/commits"><img src="https://img.shields.io/github/last-commit/jaid/browserslist-config-jaid-web?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/browserslist-config-jaid-web/issues"><img src="https://img.shields.io/github/issues/jaid/browserslist-config-jaid-web?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/browserslist-config-jaid-web"><img src="https://img.shields.io/npm/v/browserslist-config-jaid-web?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/browserslist-config-jaid-web/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/browserslist-config-jaid-web?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/browserslist-config-jaid-web"><img src="https://img.shields.io/npm/dm/browserslist-config-jaid-web?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **My Browserslist query targeting modern web browsers.**
 
@@ -37,14 +37,13 @@ yarn add browserslist-config-jaid-web@^2.3.0
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/browserslist-config-jaid-web.git
+git clone git@github.com:jaid/browserslist-config-jaid-web.git
 cd browserslist-config-jaid-web
 npm install
 ```
